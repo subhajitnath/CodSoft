@@ -15,4 +15,4 @@
 
 
 
-Myself Subhajit, this Repo has CodSoft's 3 tasks for Data Science Internship
+Myself Subhajit, this Repo has my Data Science and Machine Laerning Projects
